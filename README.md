@@ -18,7 +18,7 @@ Due to data sensitivity, raw data is not included.
   
 
 ## Project Insight
-Insights are displayed through charts 
+Insights are displayed through charts (https://github.com/Shamrin1122/2014_Sales-Using-Python/tree/main/Charts)
 
 
 
